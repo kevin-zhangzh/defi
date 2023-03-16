@@ -1,7 +1,7 @@
 # defi
 yield farming
 
-url = https://goerli.etherscan.io/address/
-流动性挖矿合约：0x68281bc904E37431aF9AB5faebD56290e133B4C9
-奖励代币：0xB576b13304Cb7d08E924bCDA9AcF546530e3EDCe
-LP token：0xc9821B998C2068e313342dEB0d8C36E07e0Ff0fd
+url = https://testnet.bscscan.com/address/
+流动性挖矿合约：0xB0eAeD6eA645Be8d52D2d8f372C5240569B8d0C9
+奖励代币：0x2c0cD72F6Ede2249b454c1aFA8fF8863bD3b785B
+LP token：0xd09a26bBaE22D0AD77Fd96755b74563dEa531E02
